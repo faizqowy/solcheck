@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="solcheck",                    
-    version="0.1.3",                            
+    version="0.1.5",                            
     author="Faiz Qowy",
     author_email="faizislamicqowy@gmail.com",
     description="A smart contract auditing tools",
