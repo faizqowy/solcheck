@@ -1,6 +1,6 @@
 # Solcheck | Solidity Contract Audit Tools
 
-These tools are meant for Hackaton-BI, but it can be further enhanced depends on the needs, this tools use 2 type of check semantic using SMT and Slither analyzer. Both of these tools working hand in hand to generate a report in .md format for it to be easier to check if there is any vunerbility. There is also auto fix features that I implement using OpenAI API, but you need to feed it your own api key, for now I'm using the 4.0 model, but later on I will make it customizeable to change the model version either to latest version or earlier version like 3.5, the auto fix works by fethcing the report file that already been generated from the tools
+These tools are meant for Hackaton-BI, but it will be further enhanced, this tools use 2 type of check semantic using SMT and Slither analyzer. Both of these tools working hand in hand to generate a report in .md format for it to be easier to check if there is any vunerbility. There is also auto fix features that I implement using OpenAI API, but you need to feed it your own api key, for now I'm using the 4.0 model, but later on I will make it customizeable to change the model version either to latest version or earlier version like 3.5, the auto fix works by fethcing the report file that already been generated from the tools
 
 ## How to use (in script)
 
